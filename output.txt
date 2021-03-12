@@ -1,0 +1,23 @@
+Script started on 2021-03-11 19:17:58-07:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="120" LINES="30"]
+]0;jaaispuro@DESKTOP-93RP7BQ: ~/ECE330/ECE330HW5[01;32mjaaispuro@DESKTOP-93RP7BQ[00m:[01;34m~/ECE330/ECE330HW5[00m$ ./a.lu[K[Kout
+Enter number of elements in Array: 
+5
+Enter elements of array: 
+1   5 4   1 4 2 3   3 2
+Data items in original order
+   5   1   4   3   2
+Data items in ascending order
+   1   2   3   4   5
+]0;jaaispuro@DESKTOP-93RP7BQ: ~/ECE330/ECE330HW5[01;32mjaaispuro@DESKTOP-93RP7BQ[00m:[01;34m~/ECE330/ECE330HW5[00m$ ./a.out
+Enter number of elements in Array: 
+5
+Enter elements of array: 
+2.1 2.4       4 2.1 4 3   2 2.6 2.4 2 2 1
+Data items in original order
+ 2.4 2.1 2.6 2.2   1
+Data items in ascending order
+   1 2.1 2.2 2.4 2.6
+]0;jaaispuro@DESKTOP-93RP7BQ: ~/ECE330/ECE330HW5[01;32mjaaispuro@DESKTOP-93RP7BQ[00m:[01;34m~/ECE330/ECE330HW5[00m$ exit
+exit
+
+Script done on 2021-03-11 19:18:47-07:00 [COMMAND_EXIT_CODE="0"]
